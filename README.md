@@ -24,9 +24,9 @@ This script is designed for generating synthetic conversation data, specifically
 This script uses `autotrain-advanced` package for fine-tuning LLaMA-2 model. Note that I refered to [official guidance of hugging face](https://github.com/huggingface/autotrain-advanced?tab=readme-ov-file) for this stage. Below is an detailed explanation of the different sections from the code. 
    1. **Setting Hyperparameters**: Various hyperparameters such as model name, learning rate, number of epochs, batch size, etc., are configured. These settings play a crucial role in the model performance.
    2. **Fine-tuning**: Using autotrain, the script fine-tunes LLaMA-2 model with the provided hyperparameters. In this step, the `autotrain` command is used to:
-    - Set up the model and data paths
-    - Pass hyperparameters like learning rate, batch size, number of epochs, etc.
-    - Activate features such as token push, quantization, mixed precision, etc., based on options.
+- Set up the model and data paths
+- Pass hyperparameters like learning rate, batch size, number of epochs, etc.
+- Activate features such as token push, quantization, mixed precision, etc., based on options.
 
 -----
 
