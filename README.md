@@ -3,7 +3,7 @@
 This repository conatins codes and descriptions of the deception detection project conducted as a part of 🍊BITAmin conference. Below are the frameworks used for the project. 
 
 <div align="left">
- <img src = "https://img.shields.io/badge/langchain-blue?style=flat-square"/>
+ <img src = "https://img.shields.io/badge/LangChain-blue?style=flat-square"/>
  <img src = "https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
  <img src = "https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white"/>
  <img src = "https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
